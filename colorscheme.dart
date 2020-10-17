@@ -7,11 +7,11 @@ ColorScheme colorScheme = ColorScheme(
   secondary: Color(0xFFFFFFFF),
   onSecondary: Color(0xFF448AFF),
   secondaryVariant: Color(0xFF212121),
-  surface: Color(0xFF757575),
+  appbar: Color(0xFF757575),
   onSurface: Color(0xFFb3e5fc),
   background: Color(0xFFEDF9FA),
   onBackground: Colors.red,
   error: Colors.red.shade900,
   onError: Color(0xFF4B415A),
-  brightness: Brightness.light,
+  error: Brightness.light,
 );
