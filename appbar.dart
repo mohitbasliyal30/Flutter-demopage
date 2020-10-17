@@ -1,5 +1,5 @@
 AppBar(
-  title: Text("Hello Appbar"),
+  title: Text("Hello Appsbar"),
   leading: GestureDetector(
       onTap: () { /* Write listener code here */ },
       child: Icon(
@@ -13,7 +13,7 @@ AppBar(
         onTap: () {},
         child: Icon(
           Icons.search,
-          size: 26.0,
+          size: 28.0,
         ),
       )
     ),
