@@ -5,11 +5,11 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) => new Scaffold(
     appBar: new AppBar(
-      title: new Text('Homepage'),
+      title: new Text('Here is your Homepage'),
     ),
     body: new Container(
       margin: new EdgeInsets.only(
-        top: 90.0
+        top: 67.0
       ),
       alignment: Alignment.center,
       child: new Column(
