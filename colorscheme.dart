@@ -5,7 +5,7 @@ ColorScheme colorScheme = ColorScheme(
   onPrimary: Color(0xFF03a9f4),
   primaryVariant: Color(0xFF01579b),
   secondary: Color(0xFFFFFFFF),
-  onSecondary: Color(0xFF448AFF),
+  onSecondary: Color(0xFF42A5F5),
   secondaryVariant: Color(0xFF212121),
   appbar: Color(0xFF757575),
   onSurface: Color(0XFF80CBC4),
