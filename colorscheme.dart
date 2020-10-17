@@ -13,5 +13,5 @@ ColorScheme colorScheme = ColorScheme(
   onBackground: Colors.red,
   error: Colors.red.shade900,
   onError: Color(0xFF4B415A),
-  error: Brightness.light,
+  Brightness: Brightness.light,
 );
