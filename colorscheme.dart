@@ -9,7 +9,7 @@ ColorScheme colorScheme = ColorScheme(
   secondaryVariant: Color(0xFF212121),
   appbar: Color(0xFF757575),
   onSurface: Color(0XFF80CBC4),
-  background: Color(0xFF9E9D24),
+  background: Color(0xFFFF1744),
   onBackground: Colors.blue,
   error: Colors.red.shade900,
   onError: Color(0xFF4B415A),
