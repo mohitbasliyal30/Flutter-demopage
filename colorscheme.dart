@@ -10,7 +10,7 @@ ColorScheme colorScheme = ColorScheme(
   appbar: Color(0xFF757575),
   onSurface: Color(0XFF80CBC4),
   background: Color(0xFF9E9D24),
-  onBackground: Colors.red,
+  onBackground: Colors.blue,
   error: Colors.red.shade900,
   onError: Color(0xFF4B415A),
   Brightness: Brightness.light,
